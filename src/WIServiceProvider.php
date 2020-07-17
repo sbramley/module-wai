@@ -15,7 +15,7 @@ class WIServiceProvider extends ServiceProvider
      * @var  string
      */
     protected $vendorName = 'TMS';
-    protected $packageName = 'Common';
+    protected $packageName = 'WI';
 
     /**
      * Indicates if loading of the provider is deferred.
